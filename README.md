@@ -1,4 +1,4 @@
-# Kubernetes Device Plugins for DirectX
+# Kubernetes Device Plugins for Windows GPU
 
 This repository contains Kubernetes device plugins for exposing GPUs to Windows containers. The plugins include the following features:
 
