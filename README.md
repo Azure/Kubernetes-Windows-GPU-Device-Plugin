@@ -1,6 +1,6 @@
 # Kubernetes Device Plugins for DirectX
 
-This repository contains Kubernetes device plugins for exposing DirectX devices to Windows containers. The plugins include the following features:
+This repository contains Kubernetes device plugins for exposing GPUs to Windows containers. The plugins include the following features:
 
 - **Individual devices** are mounted based on their unique [PCIe Location Path](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/plan-for-deploying-devices-using-discrete-device-assignment#pcie-location-path), rather than mounting entire classes of devices based on [device interface class](https://learn.microsoft.com/en-us/windows-hardware/drivers/install/overview-of-device-interface-classes) GUIDs
 
