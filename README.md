@@ -12,7 +12,7 @@ This repository contains Kubernetes device plugins for exposing GPUs to Windows 
 
 - Support for **multitenancy** (i.e. sharing a single device between multiple containers)
 
-## Acknoledgements
+## Acknowledgements
 This project, originally developed by Dr. Adam Rehn at TensorWorks, was generously donated to Microsoft to help establish it as the industry standard. We are so grateful for Adam's donation, support, and shared vision for a single open-source windows device plug-in to rule them all.
 
 ## Contents
