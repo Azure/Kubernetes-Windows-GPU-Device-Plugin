@@ -238,6 +238,6 @@ TensorWorks is aware of the following limitations that currently apply when usin
 - The current version of the NVIDIA GPU driver does not appear to support Vulkan inside Windows containers. This is a limitation of the device driver itself, not the Kubernetes device plugins.
 
 
-## Legal
+## Legal TODO NOT UPDATED
 
 Copyright &copy; 2022-2023, TensorWorks Pty Ltd. Licensed under the MIT License, see the file [LICENSE](./LICENSE) for details.
